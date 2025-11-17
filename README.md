@@ -6,7 +6,7 @@
 ![Networking](https://img.shields.io/badge/Networking-IPv4%20%2F%20TCP%2FIP-blue?style=for-the-badge)
 ![Protocols](https://img.shields.io/badge/Protocols-DNS%20%7C%20HTTP%20%7C%20SMTP%20%7C%20OSPF-orange?style=for-the-badge)
 
-**A comprehensive network topology simulation designed to restore and secure connectivity between residential, public, and enterprise zones.**
+**A comprehensive network topology simulation designed to restore and secure connectivity between residential, public, and enterprise zones.** Developed as project for Operating Systems and Networking at Pontificia Universidad Católica de Chile.
 
 </div>
 
